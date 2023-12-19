@@ -1,0 +1,9 @@
+{
+  "name": "horse-octet-stream",
+  "version": "1.0.1",
+  "main": "index.js",
+  "repository": "https://github.com/solussaude/horse-octet-stream.git",
+  "license": "MIT",
+  "packageManager": "yarn@4.0.2",
+  "private": true
+}
