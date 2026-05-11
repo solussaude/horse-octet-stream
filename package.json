@@ -4,5 +4,5 @@
   "main": "index.js",
   "repository": "https://github.com/solussaude/horse-octet-stream",
   "license": "MIT",
-  "packageManager": "yarn@4.0.2"
+  "packageManager": "yarn@4.13.0"
 }
